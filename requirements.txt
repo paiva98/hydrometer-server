@@ -1,0 +1,8 @@
+Faker==20.0.3
+Flask==2.3.2
+Flask_Cors==4.0.0
+numpy==1.23.5
+numpy==1.21.5
+Pillow==9.0.1
+Pillow==10.1.0
+torch==2.0.1
